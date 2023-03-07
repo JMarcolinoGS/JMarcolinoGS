@@ -5,7 +5,6 @@
  
 </div>
 <br>
-🎓 Front End development student! <br>
 🎓 FrontEnd development student | Python student  <br>
 🧠 “Never say never, because limits, like fears, are often just an illusion.” - Michael Jordan
 <br>
