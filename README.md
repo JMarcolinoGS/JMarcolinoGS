@@ -2,21 +2,31 @@
 
 ## Olá, me chamo João Marcolino, desenvolvedor e louco por tecnologia! 
 
-<div align="center">
-  <a href="https://github.com/JMarcolinoGS">
+ <img alt="Bru-Bannerr" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/948685400606658644/1006283466863804477/header-github.jpg">
 </div>
+<br>
+🎓 Front End development student! <br>
+🎓 FrontEnd development student | Java student!  <br>
+🧠 “Never say never, because limits, like fears, are often just an illusion.” - Michael Jordan
+<br>
 
-
+<div align="center">
+<br>
+<br>
+  <a href="https://github.com/JMarcolinoGS">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FragaInDev&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMarcolinoGSv&layout=compact&langs_count=7&theme=onedark"/>
+</div>
+  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- </div>
+  <img align="center" alt="joao-PYTHON" height="40" width="40" src="https://cdn.discordapp.com/attachments/948685400606658644/948712095422218260/figmaicon.png">
+  <img align="center" alt="joao-HTML" height="40" width="40" src="https://cdn.discordapp.com/attachments/948685400606658644/948709589115863150/html.png">
+  <img align="center" alt="joao-CSS" height="40" width="40" src="https://cdn.discordapp.com/attachments/948685400606658644/948708967218049084/css.png">
+  <img align="center" alt="joao-JS" height="40" width="40" src="https://cdn.discordapp.com/attachments/948685400606658644/948710046148198450/js.png">
   
+</div>
   
- <div>
-  <a href = "mailto:joaomarcolino969@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jm76" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
+##
+  
+<div> 
+  
