@@ -19,14 +19,10 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="joao-PYTHON" height="40" width="40" src="https://cdn.discordapp.com/attachments/948685400606658644/948712095422218260/python.png">
+  <img align="center" alt="joao-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="joao-HTML" height="40" width="40" src="https://cdn.discordapp.com/attachments/948685400606658644/948709589115863150/html.png">
   <img align="center" alt="joao-CSS" height="40" width="40" src="https://cdn.discordapp.com/attachments/948685400606658644/948708967218049084/css.png">
   <img align="center" alt="joao-JS" height="40" width="40" src="https://cdn.discordapp.com/attachments/948685400606658644/948710046148198450/js.png">
   
 </div>
-  
-##
-  
-<div> 
   
