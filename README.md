@@ -1,6 +1,7 @@
 ###  João Marcolino
 
-## Olá, me chamo João Marcolino, desenvolvedor louco por tecnologia!
+## Olá, me chamo João Marcolino, desenvolvedor e louco por tecnologia! 
+
 <div align="center">
   <a href="https://github.com/JMarcolinoGS">
 </div>
