@@ -1,11 +1,12 @@
 
 ## Olá, me chamo João Marcolino, desenvolvedor e louco por tecnologia! 
- 
- <div>
- <img src="./Downloads/marc.jpg">
- </div>
+
+<div>
+  <a href=https://user-images.githubusercontent.com/122378399/223834452-3e4bf71c-4d72-4288-87da-2480213ebd29.png>
  
 </div>
+
+
 <br>
 🎓 FrontEnd development student | Python student  <br>
 🧠 “Never say never, because limits, like fears, are often just an illusion.” - Michael Jordan
