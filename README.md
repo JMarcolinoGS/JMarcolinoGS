@@ -2,6 +2,11 @@
 
 ## Olá, me chamo João Marcolino, desenvolvedor e louco por tecnologia! 
  
+ <div>
+ <img alt="Bru-Bannerr" style="border-radius:50px;" src="marc.png">
+ 
+ </div>
+ 
 </div>
 <br>
 🎓 FrontEnd development student | Python student  <br>
