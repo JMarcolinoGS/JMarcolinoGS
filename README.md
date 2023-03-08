@@ -2,7 +2,8 @@
 ## Olá, me chamo João Marcolino, desenvolvedor e louco por tecnologia! 
 
 <div>
-  <a href=https://user-images.githubusercontent.com/122378399/223834452-3e4bf71c-4d72-4288-87da-2480213ebd29.png>
+ 
+ <img src="./repository-open-graph-template.png">
  
 </div>
 
