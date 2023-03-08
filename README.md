@@ -1,11 +1,11 @@
 
 ## Olá, me chamo João Marcolino, desenvolvedor e louco por tecnologia! 
 
-<div>
+
+ ![Design sem nome (1)](https://user-images.githubusercontent.com/122378399/223839765-a727bed2-3f80-437e-9955-de89178558ac.png)
  
- <img src="repository-open-graph-template.png">
  
-</div>
+
 
 
 <br>
