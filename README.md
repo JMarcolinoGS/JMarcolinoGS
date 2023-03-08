@@ -2,7 +2,7 @@
 ## Olá, me chamo João Marcolino, desenvolvedor e louco por tecnologia! 
  
  <div>
- <img src="Downloads/marc.jpg">
+ <img src="./Downloads/marc.jpg">
  </div>
  
 </div>
