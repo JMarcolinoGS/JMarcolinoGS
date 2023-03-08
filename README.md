@@ -3,8 +3,7 @@
 ## Olá, me chamo João Marcolino, desenvolvedor e louco por tecnologia! 
  
  <div>
- <img style="border-radius:50px;" src="marc.png">
- 
+ <img src="marc.png">
  </div>
  
 </div>
