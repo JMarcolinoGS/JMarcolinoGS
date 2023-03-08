@@ -3,7 +3,7 @@
 ## Olá, me chamo João Marcolino, desenvolvedor e louco por tecnologia! 
  
  <div>
- <img src="Downloads/marc.png">
+ <img src="Downloads/marc.header-github.jpg"">
  </div>
  
 </div>
