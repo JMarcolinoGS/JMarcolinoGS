@@ -3,7 +3,7 @@
 ## Olá, me chamo João Marcolino, desenvolvedor e louco por tecnologia! 
  
  <div>
- <img src="marc.png">
+ <img src="imagens/wallpaper/marc.png">
  </div>
  
 </div>
