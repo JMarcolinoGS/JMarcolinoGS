@@ -3,7 +3,7 @@
 
 <div>
  
- <img src="./repository-open-graph-template.png">
+ <img src="repository-open-graph-template.png">
  
 </div>
 
