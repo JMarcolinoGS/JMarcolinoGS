@@ -1,9 +1,9 @@
 
 ## Olá, me chamo João Marcolino, desenvolvedor e louco por tecnologia! 
  
- <div align="center">
- <img src="https://user-images.githubusercontent.com/122378399/223839765-a727bed2-3f80-437e-9955-de89178558ac.png" width="400px" height="300px" />
-
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/122378399/223855536-4659f16d-22b1-4684-a25d-b013501e9a12.png"
+      
  </div>
 
 <br>
