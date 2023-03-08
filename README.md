@@ -1,8 +1,6 @@
 ###  João Marcolino
 
 ## Olá, me chamo João Marcolino, desenvolvedor e louco por tecnologia! 
-
-<img alt=
  
 </div>
 <br>
