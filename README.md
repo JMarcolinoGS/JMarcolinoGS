@@ -3,7 +3,6 @@
  
 <div align="center">
  <img src="https://user-images.githubusercontent.com/122378399/223855536-4659f16d-22b1-4684-a25d-b013501e9a12.png"
-      
  </div>
 
 <br>
@@ -29,9 +28,7 @@
 </div>
   
 <div> 
-  
   <a href = "mailto:joaomarcolino969@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jm767/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
 ![Snake animation](https://github.com/FragaInDev/FragaInDev/blob/output/github-contribution-grid-snake.svg)
  </div>
