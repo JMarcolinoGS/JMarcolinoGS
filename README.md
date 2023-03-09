@@ -1,5 +1,5 @@
 
-## Desenvolvedor e louco por tecnologia!!!!
+## Desenvolvedor e louco por tecnologia!!!
  
 <div align="center">
  <img src="https://user-images.githubusercontent.com/122378399/223855536-4659f16d-22b1-4684-a25d-b013501e9a12.png"
