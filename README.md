@@ -76,8 +76,4 @@
 
 ###
 
-![Snake animation](https://github.com/JMarcolinoGS/JMarcolinoGS/blob/output/github-contribution-grid-snake.svg)
 
-###
-
-###
