@@ -82,6 +82,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUser/JMarcolinoGS/output/github-contribution-grid-snake.svg">
 </picture>
 
+![Snake animation](https://github.com/JMarcolinoGS/JMarcolinoGS/blob/output/github-contribution-grid-snake.svg)
+
 ###
 
 <div align="center">
