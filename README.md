@@ -76,18 +76,8 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUser/JMarcolinoGS/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUser/JMarcolinoGS/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUser/JMarcolinoGS/output/github-contribution-grid-snake.svg">
-</picture>
-
 ![Snake animation](https://github.com/JMarcolinoGS/JMarcolinoGS/blob/output/github-contribution-grid-snake.svg)
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/JMarcolinoGS/count.svg?"  />
-</div>
 
 ###
